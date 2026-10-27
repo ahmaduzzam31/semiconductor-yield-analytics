@@ -61,7 +61,7 @@ def build_page(title: str, intro: str, kpis: list[tuple[str, str, str]], cards: 
     card_html = []
     for i, c in enumerate(cards):
         div = style_fig(c["fig"], c.get("height", 340)).to_html(
-            full_html=False, include_plotlyjs="cdn" if i == 0 else False,
+            full_html=False, include_plotlyjs="cdn" if i == 0 else False, default_width="100%",
             config={"displayModeBar": False, "responsive": True})
         card_html.append(f'<section class="card{" wide" if c.get("wide") else ""}"><h2>{escape(c["title"])}</h2>'
                          f'<p class="sub">{escape(c.get("sub", ""))}</p>{div}</section>')
@@ -73,6 +73,9 @@ def build_page(title: str, intro: str, kpis: list[tuple[str, str, str]], cards: 
 <main><div class="kpis">{kpi_html}</div>
 <section class="insights"><ul>{ins}</ul></section>
 <div class="grid">{''.join(card_html)}</div></main>
-<footer>{footer}</footer></body></html>"""
+<footer>{footer}</footer>
+<script>window.addEventListener("load", () =>
+  document.querySelectorAll(".plotly-graph-div").forEach(d => Plotly.Plots.resize(d)));</script>
+</body></html>"""
     with open(path, "w", encoding="utf-8") as f:
         f.write(html)
