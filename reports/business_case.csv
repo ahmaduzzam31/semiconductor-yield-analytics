@@ -1,0 +1,9 @@
+,value
+Annual runs (observed rate),"6,351"
+Fail rate,6.64%
+Annual cost of poor quality,"€1,053,772"
+Model used,Random forest
+Inspect top-risk share of runs,16%
+Failures caught early,43%
+Net annual saving (risk-based inspection),"€125,237"
+Saving per +1pp yield (process fix),"€158,775"

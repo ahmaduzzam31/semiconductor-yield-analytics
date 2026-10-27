@@ -1,0 +1,591 @@
+sensor,missing_pct,std,n_unique,drop_reason,kept
+S000,0.3829,73.6218,1520,,True
+S001,0.4467,80.4077,1504,,True
+S002,0.8934,29.5132,507,,True
+S003,0.8934,441.6916,518,,True
+S004,0.8934,56.3555,503,,True
+S005,0.8934,0.0,1,constant (zero variance),False
+S006,0.8934,6.2372,510,,True
+S007,0.5743,0.009,89,,True
+S008,0.1276,0.0739,1208,,True
+S009,0.1276,0.0151,568,,True
+S010,0.1276,0.0093,392,,True
+S011,0.1276,0.0125,378,,True
+S012,0.1276,3.2573,1547,,True
+S013,0.1914,0.0,1,constant (zero variance),False
+S014,0.1914,2.7966,1555,,True
+S015,0.1914,17.2211,1561,,True
+S016,0.1914,2.4039,1477,,True
+S017,0.1914,0.0121,281,,True
+S018,0.1914,2.781,1548,,True
+S019,0.6382,0.218,361,,True
+S020,0.0,0.0167,552,,True
+S021,0.1276,626.8222,1295,,True
+S022,0.1276,295.4985,1176,,True
+S023,0.1276,1380.1621,1480,,True
+S024,0.1276,2902.6901,1494,,True
+S025,0.1276,0.1776,704,,True
+S026,0.1276,0.1895,624,,True
+S027,0.1276,1.2442,1148,redundant (|r| > 0.95),False
+S028,0.1276,3.4612,869,,True
+S029,0.1276,0.4087,188,,True
+S030,0.1276,0.0329,842,,True
+S031,0.1276,0.5353,1275,,True
+S032,0.0638,2.0265,338,,True
+S033,0.0638,1.3445,330,,True
+S034,0.0638,1.1826,329,,True
+S035,0.0638,2.5747,331,,True
+S036,0.0638,1.1826,330,redundant (|r| > 0.95),False
+S037,0.0638,0.3041,325,,True
+S038,0.0638,0.4468,329,,True
+S039,0.0638,1.8072,333,,True
+S040,1.5316,24.0629,291,,True
+S041,1.5316,2.3604,315,,True
+S042,0.0638,0.0,1,constant (zero variance),False
+S043,0.0638,6.2347,1523,,True
+S044,0.0638,0.175,1376,,True
+S045,0.0638,7.8492,1520,,True
+S046,0.0638,12.1703,1562,,True
+S047,0.0638,0.1896,1341,,True
+S048,0.0638,4.5243,1486,,True
+S049,0.0638,0.0,1,constant (zero variance),False
+S050,0.0638,8.644,1520,,True
+S051,0.0638,60.9251,1562,,True
+S052,0.0638,0.0,1,constant (zero variance),False
+S053,0.2553,0.0549,153,,True
+S054,0.2553,0.0596,169,,True
+S055,0.2553,25.7493,107,,True
+S056,0.2553,0.0068,187,,True
+S057,0.2553,0.0042,159,,True
+S058,0.2553,0.0851,382,,True
+S059,0.4467,9.5322,1500,,True
+S060,0.3829,6.0279,1498,,True
+S061,0.3829,0.2749,1418,,True
+S062,0.3829,8.629,1518,,True
+S063,0.4467,7.1199,1534,,True
+S064,0.4467,4.9775,1496,,True
+S065,0.4467,7.1217,1550,,True
+S066,0.3829,11.6231,1559,,True
+S067,0.3829,307.5023,1306,,True
+S068,0.3829,4.2401,1479,,True
+S069,0.3829,0.0,1,constant (zero variance),False
+S070,0.3829,9.5392,1533,,True
+S071,0.3829,31.6519,1557,,True
+S072,50.6701,18.3885,773,missing > 40%,False
+S073,50.6701,17.6299,770,missing > 40%,False
+S074,0.3829,0.1062,2,,True
+S075,1.5316,0.0223,675,,True
+S076,1.5316,0.0332,891,,True
+S077,1.5316,0.0314,842,,True
+S078,1.5316,0.0479,995,,True
+S079,1.5316,0.0231,691,,True
+S080,1.5316,0.0492,922,,True
+S081,1.5316,0.017,580,,True
+S082,1.5316,0.0361,888,,True
+S083,0.0638,0.5163,1506,,True
+S084,0.7658,0.0051,180,,True
+S085,85.5775,0.0029,97,missing > 40%,False
+S086,0.0,0.0373,472,,True
+S087,0.0,0.0128,249,,True
+S088,0.0,53.5373,973,,True
+S089,3.2546,0.0524,650,,True
+S090,3.2546,396.3137,1513,,True
+S091,0.3829,0.0877,1191,,True
+S092,0.1276,0.0032,180,,True
+S093,0.1276,0.003,174,,True
+S094,0.3829,0.0002,22,,True
+S095,0.3829,0.0001,14,,True
+S096,0.3829,0.2196,1333,redundant (|r| > 0.95),False
+S097,0.3829,0.0,1,constant (zero variance),False
+S098,0.3829,0.4271,1420,,True
+S099,0.3829,0.0627,272,,True
+S100,0.3829,0.0004,35,,True
+S101,0.3829,0.0002,29,,True
+S102,0.3829,0.063,1066,,True
+S103,0.1276,0.0031,153,,True
+S104,0.1276,0.0009,55,redundant (|r| > 0.95),False
+S105,0.3829,0.0032,177,redundant (|r| > 0.95),False
+S106,0.3829,0.003,180,redundant (|r| > 0.95),False
+S107,0.3829,0.0875,1159,,True
+S108,0.3829,0.0868,1183,,True
+S109,64.9649,0.0087,96,missing > 40%,False
+S110,64.9649,1.8801,546,missing > 40%,False
+S111,64.9649,2.1053,545,missing > 40%,False
+S112,45.6286,0.0489,249,missing > 40%,False
+S113,0.0,0.0121,468,,True
+S114,0.0,0.0017,20,,True
+S115,0.0,48.9492,1567,,True
+S116,0.0,0.0095,136,,True
+S117,0.0,6.4852,1527,,True
+S118,1.5316,0.0081,328,,True
+S119,0.0,0.0089,249,,True
+S120,0.0,0.1243,1269,,True
+S121,0.5743,0.0996,54,,True
+S122,0.5743,0.9041,309,,True
+S123,0.5743,0.1083,50,,True
+S124,0.5743,0.1141,59,,True
+S125,0.5743,0.2806,155,,True
+S126,0.5743,0.2535,273,,True
+S127,0.5743,0.1354,324,redundant (|r| > 0.95),False
+S128,0.5743,0.2642,268,,True
+S129,0.5743,1.2205,93,,True
+S130,0.5743,0.0825,310,,True
+S131,0.5743,0.0023,68,,True
+S132,0.5105,0.0532,306,,True
+S133,0.5105,6.5377,336,,True
+S134,0.5105,2.9905,335,,True
+S135,0.3191,57.5446,134,,True
+S136,0.3829,53.9098,1089,,True
+S137,0.4467,52.253,1059,,True
+S138,0.8934,12.3454,348,,True
+S139,0.8934,263.3006,518,,True
+S140,0.8934,506.9221,498,redundant (|r| > 0.95),False
+S141,0.8934,0.0,1,constant (zero variance),False
+S142,0.8934,3.5523,374,,True
+S143,0.5743,0.0013,63,,True
+S144,0.1276,0.0613,961,,True
+S145,0.1276,0.0265,656,,True
+S146,0.1276,0.0218,579,,True
+S147,0.1276,0.0271,294,,True
+S148,0.1276,18.7406,1551,redundant (|r| > 0.95),False
+S149,0.1914,0.0,1,constant (zero variance),False
+S150,0.1914,3.2418,1443,,True
+S151,0.1914,31.0025,1498,,True
+S152,0.1914,23.3641,1394,redundant (|r| > 0.95),False
+S153,0.1914,0.0093,219,,True
+S154,0.1914,5.2392,1551,,True
+S155,0.6382,1.1224,65,,True
+S156,0.0,0.0792,722,,True
+S157,91.1934,0.0395,128,missing > 40%,False
+S158,91.1934,406.8488,138,missing > 40%,False
+S159,0.1276,983.043,954,,True
+S160,0.1276,574.8086,744,,True
+S161,0.1276,4239.2451,1411,,True
+S162,0.1276,6553.5693,1325,,True
+S163,0.1276,0.122,260,,True
+S164,0.1276,0.2425,219,,True
+S165,0.1276,0.4073,404,redundant (|r| > 0.95),False
+S166,0.1276,1.1198,62,,True
+S167,0.1276,0.6328,31,,True
+S168,0.1276,0.0476,207,,True
+S169,0.1276,0.1979,652,,True
+S170,0.0638,0.1575,331,,True
+S171,0.0638,0.0608,306,,True
+S172,0.0638,0.0712,307,,True
+S173,0.0638,0.0957,319,,True
+S174,0.0638,0.0712,308,redundant (|r| > 0.95),False
+S175,0.0638,0.1163,327,,True
+S176,0.0638,0.0749,319,,True
+S177,0.0638,0.2829,250,,True
+S178,1.5316,0.0,1,constant (zero variance),False
+S179,0.0638,0.0,1,constant (zero variance),False
+S180,0.0638,3.3116,890,,True
+S181,0.0638,0.2244,687,,True
+S182,0.0638,4.1641,905,,True
+S183,0.0638,6.8361,1508,,True
+S184,0.0638,0.1102,1054,,True
+S185,0.0638,7.1887,739,,True
+S186,0.0638,0.0,1,constant (zero variance),False
+S187,0.0638,8.6099,1015,,True
+S188,0.0638,21.7119,1550,,True
+S189,0.0638,0.0,1,constant (zero variance),False
+S190,0.2553,0.0,1,constant (zero variance),False
+S191,0.2553,0.0,1,constant (zero variance),False
+S192,0.2553,0.0,1,constant (zero variance),False
+S193,0.2553,0.0,1,constant (zero variance),False
+S194,0.2553,0.0,1,constant (zero variance),False
+S195,0.2553,0.3952,206,,True
+S196,0.4467,15.7209,867,,True
+S197,0.3829,10.5522,898,,True
+S198,0.3829,0.5377,773,,True
+S199,0.3829,16.4456,920,,True
+S200,0.4467,8.6907,1008,,True
+S201,0.4467,5.1045,861,,True
+S202,0.4467,14.6229,1470,,True
+S203,0.3829,17.4618,1501,,True
+S204,0.3829,565.1012,1210,,True
+S205,0.3829,11.5411,841,,True
+S206,0.3829,0.0506,2,redundant (|r| > 0.95),False
+S207,0.3829,17.4976,1046,,True
+S208,0.3829,28.0671,1549,,True
+S209,0.3829,1.1681,2,redundant (|r| > 0.95),False
+S210,1.5316,0.0421,798,,True
+S211,1.5316,0.025,653,,True
+S212,1.5316,0.0316,681,,True
+S213,1.5316,0.053,810,,True
+S214,1.5316,0.0565,803,,True
+S215,1.5316,0.0304,823,,True
+S216,1.5316,0.0258,728,,True
+S217,1.5316,0.0463,836,,True
+S218,0.0638,1.1704,1539,,True
+S219,0.7658,0.0016,64,,True
+S220,85.5775,0.002,69,missing > 40%,False
+S221,0.0,0.0233,408,,True
+S222,0.0,0.0559,178,,True
+S223,0.0,55.156,973,,True
+S224,3.2546,0.0712,720,,True
+S225,3.2546,433.1701,1472,,True
+S226,0.3829,0.0,1,constant (zero variance),False
+S227,0.1276,0.0108,329,,True
+S228,0.1276,0.0107,292,,True
+S229,0.3829,0.0,1,constant (zero variance),False
+S230,0.3829,0.0,1,constant (zero variance),False
+S231,0.3829,0.0,1,constant (zero variance),False
+S232,0.3829,0.0,1,constant (zero variance),False
+S233,0.3829,0.0,1,constant (zero variance),False
+S234,0.3829,0.0,1,constant (zero variance),False
+S235,0.3829,0.0,1,constant (zero variance),False
+S236,0.3829,0.0,1,constant (zero variance),False
+S237,0.3829,0.0,1,constant (zero variance),False
+S238,0.1276,0.0017,93,,True
+S239,0.1276,0.0014,80,,True
+S240,0.3829,0.0,1,constant (zero variance),False
+S241,0.3829,0.0,1,constant (zero variance),False
+S242,0.3829,0.0,1,constant (zero variance),False
+S243,0.3829,0.0,1,constant (zero variance),False
+S244,64.9649,0.0846,66,missing > 40%,False
+S245,64.9649,4.3356,539,missing > 40%,False
+S246,64.9649,10.0451,547,missing > 40%,False
+S247,45.6286,0.0669,490,missing > 40%,False
+S248,0.0,0.0492,426,,True
+S249,0.0,0.0158,23,redundant (|r| > 0.95),False
+S250,0.0,54.5973,1566,,True
+S251,0.0,0.0375,143,,True
+S252,0.0,64.3548,1533,redundant (|r| > 0.95),False
+S253,1.5316,0.0224,442,,True
+S254,0.0,0.0091,291,,True
+S255,0.0,0.1203,1317,,True
+S256,0.5743,0.0,1,constant (zero variance),False
+S257,0.5743,0.0,1,constant (zero variance),False
+S258,0.5743,0.0,1,constant (zero variance),False
+S259,0.5743,0.0,1,constant (zero variance),False
+S260,0.5743,0.0,1,constant (zero variance),False
+S261,0.5743,0.0,1,constant (zero variance),False
+S262,0.5743,0.0,1,constant (zero variance),False
+S263,0.5743,0.0,1,constant (zero variance),False
+S264,0.5743,0.0,1,constant (zero variance),False
+S265,0.5743,0.0,1,constant (zero variance),False
+S266,0.5743,0.0,1,constant (zero variance),False
+S267,0.5105,0.0296,291,,True
+S268,0.5105,7.3444,333,,True
+S269,0.5105,1.1523,330,,True
+S270,0.3191,8.402,599,,True
+S271,0.3829,17.8664,1559,redundant (|r| > 0.95),False
+S272,0.4467,17.7375,1557,redundant (|r| > 0.95),False
+S273,0.8934,3.8305,518,,True
+S274,0.8934,85.6078,518,redundant (|r| > 0.95),False
+S275,0.8934,168.9494,458,redundant (|r| > 0.95),False
+S276,0.8934,0.0,1,constant (zero variance),False
+S277,0.8934,1.1964,512,redundant (|r| > 0.95),False
+S278,0.5743,0.0003,22,,True
+S279,0.1276,0.0203,541,redundant (|r| > 0.95),False
+S280,0.1276,0.0065,246,redundant (|r| > 0.95),False
+S281,0.1276,0.0055,227,redundant (|r| > 0.95),False
+S282,0.1276,0.0086,114,redundant (|r| > 0.95),False
+S283,0.1276,5.8643,1515,redundant (|r| > 0.95),False
+S284,0.1914,0.0,1,constant (zero variance),False
+S285,0.1914,0.9629,1527,redundant (|r| > 0.95),False
+S286,0.1914,9.7638,1540,redundant (|r| > 0.95),False
+S287,0.1914,7.3863,1076,redundant (|r| > 0.95),False
+S288,0.1914,0.0029,87,redundant (|r| > 0.95),False
+S289,0.1914,1.617,1522,redundant (|r| > 0.95),False
+S290,0.6382,0.271,324,redundant (|r| > 0.95),False
+S291,0.0,0.0255,354,redundant (|r| > 0.95),False
+S292,91.1934,0.0115,92,missing > 40%,False
+S293,91.1934,137.6925,138,missing > 40%,False
+S294,0.1276,477.0501,1562,redundant (|r| > 0.95),False
+S295,0.1276,283.5307,1561,redundant (|r| > 0.95),False
+S296,0.1276,1975.1114,1565,redundant (|r| > 0.95),False
+S297,0.1276,3226.9243,1559,redundant (|r| > 0.95),False
+S298,0.1276,0.0642,725,redundant (|r| > 0.95),False
+S299,0.1276,0.1308,626,redundant (|r| > 0.95),False
+S300,0.1276,0.2191,967,redundant (|r| > 0.95),False
+S301,0.1276,0.332,1134,redundant (|r| > 0.95),False
+S302,0.1276,0.1975,569,redundant (|r| > 0.95),False
+S303,0.1276,0.0145,509,redundant (|r| > 0.95),False
+S304,0.1276,0.0649,1105,redundant (|r| > 0.95),False
+S305,0.0638,0.0574,314,redundant (|r| > 0.95),False
+S306,0.0638,0.0254,262,redundant (|r| > 0.95),False
+S307,0.0638,0.0275,286,redundant (|r| > 0.95),False
+S308,0.0638,0.0336,293,redundant (|r| > 0.95),False
+S309,0.0638,0.0275,290,redundant (|r| > 0.95),False
+S310,0.0638,0.0435,310,redundant (|r| > 0.95),False
+S311,0.0638,0.0288,276,redundant (|r| > 0.95),False
+S312,0.0638,0.1173,307,redundant (|r| > 0.95),False
+S313,1.5316,0.0,1,constant (zero variance),False
+S314,1.5316,0.0,1,constant (zero variance),False
+S315,0.0638,0.0,1,constant (zero variance),False
+S316,0.0638,1.0186,1533,,True
+S317,0.0638,0.0724,1160,redundant (|r| > 0.95),False
+S318,0.0638,1.2159,1535,redundant (|r| > 0.95),False
+S319,0.0638,2.1791,1550,redundant (|r| > 0.95),False
+S320,0.0638,0.0319,550,redundant (|r| > 0.95),False
+S321,0.0638,2.117,1511,redundant (|r| > 0.95),False
+S322,0.0638,0.0,1,constant (zero variance),False
+S323,0.0638,2.5189,1536,redundant (|r| > 0.95),False
+S324,0.0638,6.6158,1560,redundant (|r| > 0.95),False
+S325,0.0638,0.0,1,constant (zero variance),False
+S326,0.2553,0.0,1,constant (zero variance),False
+S327,0.2553,0.0,1,constant (zero variance),False
+S328,0.2553,0.0,1,constant (zero variance),False
+S329,0.2553,0.0,1,constant (zero variance),False
+S330,0.2553,0.0,1,constant (zero variance),False
+S331,0.2553,0.0634,313,,True
+S332,0.4467,5.6452,1517,redundant (|r| > 0.95),False
+S333,0.3829,3.4034,1527,redundant (|r| > 0.95),False
+S334,0.3829,0.1729,1145,redundant (|r| > 0.95),False
+S335,0.3829,5.7816,1526,redundant (|r| > 0.95),False
+S336,0.4467,7.5561,1532,,True
+S337,0.4467,1.6994,1517,,True
+S338,0.4467,5.645,1520,redundant (|r| > 0.95),False
+S339,0.3829,6.0747,1543,redundant (|r| > 0.95),False
+S340,0.3829,261.7385,761,redundant (|r| > 0.95),False
+S341,0.3829,3.6679,1517,redundant (|r| > 0.95),False
+S342,0.3829,0.0113,2,redundant (|r| > 0.95),False
+S343,0.3829,5.3718,1541,redundant (|r| > 0.95),False
+S344,0.3829,8.8952,1551,redundant (|r| > 0.95),False
+S345,50.6701,17.513,767,missing > 40%,False
+S346,50.6701,17.0775,762,missing > 40%,False
+S347,0.3829,0.3522,2,redundant (|r| > 0.95),False
+S348,1.5316,0.0119,357,,True
+S349,1.5316,0.0106,373,redundant (|r| > 0.95),False
+S350,1.5316,0.0143,435,redundant (|r| > 0.95),False
+S351,1.5316,0.0246,499,redundant (|r| > 0.95),False
+S352,1.5316,0.0132,354,redundant (|r| > 0.95),False
+S353,1.5316,0.0155,563,redundant (|r| > 0.95),False
+S354,1.5316,0.0131,486,redundant (|r| > 0.95),False
+S355,1.5316,0.0223,572,redundant (|r| > 0.95),False
+S356,0.0638,0.3869,1473,,True
+S357,0.7658,0.0005,28,redundant (|r| > 0.95),False
+S358,85.5775,0.0004,20,missing > 40%,False
+S359,0.0,0.0071,215,redundant (|r| > 0.95),False
+S360,0.0,0.02,97,redundant (|r| > 0.95),False
+S361,0.0,17.0563,972,redundant (|r| > 0.95),False
+S362,3.2546,0.0216,389,redundant (|r| > 0.95),False
+S363,3.2546,138.8019,1516,redundant (|r| > 0.95),False
+S364,0.3829,0.0,1,constant (zero variance),False
+S365,0.1276,0.0027,120,redundant (|r| > 0.95),False
+S366,0.1276,0.0024,107,redundant (|r| > 0.95),False
+S367,0.3829,0.0027,113,,True
+S368,0.3829,0.0021,97,,True
+S369,0.3829,0.0,1,constant (zero variance),False
+S370,0.3829,0.0,1,constant (zero variance),False
+S371,0.3829,0.0,1,constant (zero variance),False
+S372,0.3829,0.0,1,constant (zero variance),False
+S373,0.3829,0.0,1,constant (zero variance),False
+S374,0.3829,0.0,1,constant (zero variance),False
+S375,0.3829,0.0,1,constant (zero variance),False
+S376,0.1276,0.0005,36,redundant (|r| > 0.95),False
+S377,0.1276,0.0005,31,redundant (|r| > 0.95),False
+S378,0.3829,0.0,1,constant (zero variance),False
+S379,0.3829,0.0,1,constant (zero variance),False
+S380,0.3829,0.0,1,constant (zero variance),False
+S381,0.3829,0.0,1,constant (zero variance),False
+S382,64.9649,0.0267,29,missing > 40%,False
+S383,64.9649,1.341,525,missing > 40%,False
+S384,64.9649,3.1684,536,missing > 40%,False
+S385,45.6286,0.0144,232,missing > 40%,False
+S386,0.0,0.0155,191,redundant (|r| > 0.95),False
+S387,0.0,0.005,22,redundant (|r| > 0.95),False
+S388,0.0,17.227,1564,redundant (|r| > 0.95),False
+S389,0.0,0.0118,92,redundant (|r| > 0.95),False
+S390,0.0,20.3264,1458,redundant (|r| > 0.95),False
+S391,1.5316,0.0067,183,redundant (|r| > 0.95),False
+S392,0.0,0.003,109,redundant (|r| > 0.95),False
+S393,0.0,0.0384,953,redundant (|r| > 0.95),False
+S394,0.5743,0.0,1,constant (zero variance),False
+S395,0.5743,0.0,1,constant (zero variance),False
+S396,0.5743,0.0,1,constant (zero variance),False
+S397,0.5743,0.0,1,constant (zero variance),False
+S398,0.5743,0.0,1,constant (zero variance),False
+S399,0.5743,0.0,1,constant (zero variance),False
+S400,0.5743,0.0,1,constant (zero variance),False
+S401,0.5743,0.0,1,constant (zero variance),False
+S402,0.5743,0.0,1,constant (zero variance),False
+S403,0.5743,0.0,1,constant (zero variance),False
+S404,0.5743,0.0,1,constant (zero variance),False
+S405,0.5105,0.0107,228,redundant (|r| > 0.95),False
+S406,0.5105,2.8296,335,redundant (|r| > 0.95),False
+S407,0.5105,0.3647,331,redundant (|r| > 0.95),False
+S408,0.3191,2.5781,593,redundant (|r| > 0.95),False
+S409,0.3829,1.7768,1548,redundant (|r| > 0.95),False
+S410,0.4467,2.123,1545,redundant (|r| > 0.95),False
+S411,0.8934,0.5515,509,redundant (|r| > 0.95),False
+S412,0.8934,18.4136,518,,True
+S413,0.8934,47.3085,518,,True
+S414,0.8934,0.0,1,constant (zero variance),False
+S415,0.8934,3.9584,513,redundant (|r| > 0.95),False
+S416,0.5743,1.0354,510,redundant (|r| > 0.95),False
+S417,0.1276,4.0545,1551,redundant (|r| > 0.95),False
+S418,0.1276,287.7045,1051,,True
+S419,0.1276,325.4484,851,,True
+S420,0.1276,3.0577,1514,redundant (|r| > 0.95),False
+S421,0.1276,6.9139,1534,redundant (|r| > 0.95),False
+S422,0.1914,0.0,1,constant (zero variance),False
+S423,0.1914,32.5969,1563,,True
+S424,0.1914,6.3254,1529,redundant (|r| > 0.95),False
+S425,0.1914,23.2577,1540,redundant (|r| > 0.95),False
+S426,0.1914,0.9956,1481,redundant (|r| > 0.95),False
+S427,0.1914,3.0421,1538,redundant (|r| > 0.95),False
+S428,0.6382,10.6327,404,redundant (|r| > 0.95),False
+S429,0.0,6.4354,1542,redundant (|r| > 0.95),False
+S430,0.1276,36.0601,1551,,True
+S431,0.1276,36.3954,1553,,True
+S432,0.1276,126.1887,1503,,True
+S433,0.1276,225.7789,1371,,True
+S434,0.1276,34.1089,1537,,True
+S435,0.1276,34.3698,1524,redundant (|r| > 0.95),False
+S436,0.1276,34.5578,1539,redundant (|r| > 0.95),False
+S437,0.1276,1.6113,1495,redundant (|r| > 0.95),False
+S438,0.1276,34.1081,967,,True
+S439,0.1276,38.3762,1550,,True
+S440,0.1276,6.1695,1557,redundant (|r| > 0.95),False
+S441,0.0638,0.1842,325,redundant (|r| > 0.95),False
+S442,0.0638,0.6592,335,redundant (|r| > 0.95),False
+S443,0.0638,0.1436,330,redundant (|r| > 0.95),False
+S444,0.0638,0.1555,325,redundant (|r| > 0.95),False
+S445,0.0638,0.1413,329,redundant (|r| > 0.95),False
+S446,0.0638,0.1762,338,redundant (|r| > 0.95),False
+S447,0.0638,0.0865,317,redundant (|r| > 0.95),False
+S448,0.0638,0.2363,326,redundant (|r| > 0.95),False
+S449,1.5316,0.0,1,constant (zero variance),False
+S450,1.5316,0.0,1,constant (zero variance),False
+S451,0.0638,0.0,1,constant (zero variance),False
+S452,0.0638,0.9192,1518,redundant (|r| > 0.95),False
+S453,0.0638,2.2508,1550,redundant (|r| > 0.95),False
+S454,0.0638,3.0597,1555,redundant (|r| > 0.95),False
+S455,0.0638,0.9384,1527,redundant (|r| > 0.95),False
+S456,0.0638,8.1259,1551,redundant (|r| > 0.95),False
+S457,0.0638,4.5377,1547,redundant (|r| > 0.95),False
+S458,0.0638,0.0,1,constant (zero variance),False
+S459,0.0638,1.3456,1518,redundant (|r| > 0.95),False
+S460,0.0638,13.3352,1564,,True
+S461,0.0638,0.0,1,constant (zero variance),False
+S462,0.2553,0.0,1,constant (zero variance),False
+S463,0.2553,0.0,1,constant (zero variance),False
+S464,0.2553,0.0,1,constant (zero variance),False
+S465,0.2553,0.0,1,constant (zero variance),False
+S466,0.2553,0.0,1,constant (zero variance),False
+S467,0.2553,8.6737,417,redundant (|r| > 0.95),False
+S468,0.4467,230.7669,1317,,True
+S469,0.3829,3.1517,1514,redundant (|r| > 0.95),False
+S470,0.3829,4.9834,1547,redundant (|r| > 0.95),False
+S471,0.3829,10.1741,1552,,True
+S472,0.4467,47.698,1560,,True
+S473,0.4467,22.4571,1558,,True
+S474,0.4467,24.8229,1559,,True
+S475,0.3829,2.6112,1526,redundant (|r| > 0.95),False
+S476,0.3829,14.9396,1559,,True
+S477,0.3829,10.185,1537,redundant (|r| > 0.95),False
+S478,0.3829,5.0621,2,redundant (|r| > 0.95),False
+S479,0.3829,2.6386,1507,redundant (|r| > 0.95),False
+S480,0.3829,35.7525,1560,,True
+S481,0.3829,0.0,1,constant (zero variance),False
+S482,1.5316,281.0113,1062,,True
+S483,1.5316,192.8644,1402,,True
+S484,1.5316,213.1266,1324,,True
+S485,1.5316,218.69,1358,,True
+S486,1.5316,287.3641,1039,,True
+S487,1.5316,263.8376,1199,,True
+S488,1.5316,252.0438,1314,,True
+S489,1.5316,228.0467,1344,,True
+S490,0.0638,18.0486,1562,redundant (|r| > 0.95),False
+S491,0.7658,1.2243,472,redundant (|r| > 0.95),False
+S492,85.5775,1.7593,226,missing > 40%,False
+S493,0.0,0.9739,572,redundant (|r| > 0.95),False
+S494,0.0,6.6152,894,redundant (|r| > 0.95),False
+S495,0.0,3.26,964,redundant (|r| > 0.95),False
+S496,3.2546,24.6216,1510,,True
+S497,3.2546,4.9566,1509,redundant (|r| > 0.95),False
+S498,0.3829,0.0,1,constant (zero variance),False
+S499,0.1276,324.7713,703,,True
+S500,0.1276,323.0034,648,,True
+S501,0.3829,0.0,1,constant (zero variance),False
+S502,0.3829,0.0,1,constant (zero variance),False
+S503,0.3829,0.0,1,constant (zero variance),False
+S504,0.3829,0.0,1,constant (zero variance),False
+S505,0.3829,0.0,1,constant (zero variance),False
+S506,0.3829,0.0,1,constant (zero variance),False
+S507,0.3829,0.0,1,constant (zero variance),False
+S508,0.3829,0.0,1,constant (zero variance),False
+S509,0.3829,0.0,1,constant (zero variance),False
+S510,0.1276,37.6917,1498,,True
+S511,0.1276,329.6647,586,,True
+S512,0.3829,0.0,1,constant (zero variance),False
+S513,0.3829,0.0,1,constant (zero variance),False
+S514,0.3829,0.0,1,constant (zero variance),False
+S515,0.3829,0.0,1,constant (zero variance),False
+S516,64.9649,10.7839,498,missing > 40%,False
+S517,64.9649,4.8907,543,missing > 40%,False
+S518,64.9649,4.7159,542,missing > 40%,False
+S519,45.6286,15.8144,836,missing > 40%,False
+S520,0.0,5.7024,1536,redundant (|r| > 0.95),False
+S521,0.0,103.123,9,,True
+S522,0.0,7.1044,1562,redundant (|r| > 0.95),False
+S523,0.0,4.1476,1040,redundant (|r| > 0.95),False
+S524,0.0,20.6634,1543,redundant (|r| > 0.95),False
+S525,1.5316,3.9204,1526,redundant (|r| > 0.95),False
+S526,0.0,0.9584,1514,redundant (|r| > 0.95),False
+S527,0.0,1.8887,1549,redundant (|r| > 0.95),False
+S528,0.5743,0.0,1,constant (zero variance),False
+S529,0.5743,0.0,1,constant (zero variance),False
+S530,0.5743,0.0,1,constant (zero variance),False
+S531,0.5743,0.0,1,constant (zero variance),False
+S532,0.5743,0.0,1,constant (zero variance),False
+S533,0.5743,0.0,1,constant (zero variance),False
+S534,0.5743,0.0,1,constant (zero variance),False
+S535,0.5743,0.0,1,constant (zero variance),False
+S536,0.5743,0.0,1,constant (zero variance),False
+S537,0.5743,0.0,1,constant (zero variance),False
+S538,0.5743,0.0,1,constant (zero variance),False
+S539,0.5105,1.2529,333,redundant (|r| > 0.95),False
+S540,0.5105,0.7319,336,redundant (|r| > 0.95),False
+S541,0.5105,2.8964,336,redundant (|r| > 0.95),False
+S542,0.1276,0.0027,102,,True
+S543,0.1276,0.0015,71,,True
+S544,0.1276,0.0003,21,,True
+S545,0.1276,1.3155,273,redundant (|r| > 0.95),False
+S546,16.5922,0.3891,1047,,True
+S547,16.5922,5.0639,1023,,True
+S548,16.5922,3.3905,964,,True
+S549,16.5922,0.6733,1048,,True
+S550,16.5922,4.967,747,,True
+S551,16.5922,1.3611,213,,True
+S552,16.5922,0.2762,973,redundant (|r| > 0.95),False
+S553,16.5922,2.1926,1077,redundant (|r| > 0.95),False
+S554,16.5922,0.5989,1000,redundant (|r| > 0.95),False
+S555,16.5922,35.2076,1085,,True
+S556,16.5922,1.28,1070,redundant (|r| > 0.95),False
+S557,16.5922,1.8704,1062,redundant (|r| > 0.95),False
+S558,0.0638,0.0839,365,,True
+S559,0.0638,0.2014,399,,True
+S560,0.0638,0.0516,345,,True
+S561,0.0638,19.0261,414,redundant (|r| > 0.95),False
+S562,17.4218,7.6306,873,,True
+S563,17.4218,0.1218,785,,True
+S564,17.4218,2.6336,581,,True
+S565,17.4218,0.0811,753,,True
+S566,17.4218,1.0328,887,redundant (|r| > 0.95),False
+S567,17.4218,0.0328,619,redundant (|r| > 0.95),False
+S568,17.4218,0.9966,887,redundant (|r| > 0.95),False
+S569,17.4218,10.2133,897,,True
+S570,0.0,17.4997,814,,True
+S571,0.0,0.2751,811,,True
+S572,0.0,86.3047,518,,True
+S573,0.0,0.2485,754,,True
+S574,0.0,26.9202,830,redundant (|r| > 0.95),False
+S575,0.0,0.0678,599,redundant (|r| > 0.95),False
+S576,0.0,16.9214,820,redundant (|r| > 0.95),False
+S577,0.0,12.4853,851,redundant (|r| > 0.95),False
+S578,60.5616,0.0117,322,missing > 40%,False
+S579,60.5616,0.0096,260,missing > 40%,False
+S580,60.5616,0.0031,120,missing > 40%,False
+S581,60.5616,87.521,611,missing > 40%,False
+S582,0.0638,0.0034,171,,True
+S583,0.0638,0.0172,227,,True
+S584,0.0638,0.0037,68,redundant (|r| > 0.95),False
+S585,0.0638,3.578,1502,redundant (|r| > 0.95),False
+S586,0.0638,0.0124,322,,True
+S587,0.0638,0.0088,260,,True
+S588,0.0638,0.0029,120,redundant (|r| > 0.95),False
+S589,0.0638,93.8919,611,,True
